@@ -1,2 +1,2 @@
-# kaggle
-My trials at various kaggle competitions
+# Various Projects 
+## Kaggle, Project for interview purposes, etc.
